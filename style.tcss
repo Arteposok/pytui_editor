@@ -1,0 +1,21 @@
+TextArea{
+    border: round $primary;
+}
+.sidebar, #main {
+    border: round $primary;
+    padding: 1 2;
+    height: 100%;
+    background: $surface;
+}
+
+.border{
+    border: round $primary;
+}
+
+.padded{
+    padding:4 4;
+}
+
+#main{
+    width:80%;
+}
